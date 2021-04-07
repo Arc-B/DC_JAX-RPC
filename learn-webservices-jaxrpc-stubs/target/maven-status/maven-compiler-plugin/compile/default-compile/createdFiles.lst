@@ -1,0 +1,10 @@
+io\github\learnjaxrpc\ws\schemas\ManufacturerType.class
+io\github\learnjaxrpc\ws\schemas\AircraftType.class
+io\github\learnjaxrpc\ws\AircraftInterfaceBindingStub.class
+io\github\learnjaxrpc\ws\messages\AcknowledgeAircraftType.class
+io\github\learnjaxrpc\ws\messages\GetAircraftType.class
+io\github\learnjaxrpc\ws\AircraftService.class
+io\github\learnjaxrpc\ws\AircraftInterface.class
+io\github\learnjaxrpc\ws\messages\ShowAircraftType.class
+io\github\learnjaxrpc\ws\messages\UpdateAircraftType.class
+io\github\learnjaxrpc\ws\AircraftServiceLocator.class

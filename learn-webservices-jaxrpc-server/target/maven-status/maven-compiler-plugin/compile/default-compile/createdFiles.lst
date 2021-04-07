@@ -1,0 +1,7 @@
+io\github\learnjaxrpc\config\SOAPLogHandler.class
+io\github\learnjaxrpc\config\SecurityConfiguration.class
+io\github\learnjaxrpc\LearnJaxRpcServerApplication.class
+io\github\learnjaxrpc\service\AircraftService.class
+org\apache\axis\utils\bytecode\ParamNameExtractor.class
+io\github\learnjaxrpc\service\axis\AxisAircraftService.class
+io\github\learnjaxrpc\config\WebServiceServerConfig.class

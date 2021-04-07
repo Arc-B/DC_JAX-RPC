@@ -1,0 +1,17 @@
+---
+spring:
+  profiles:
+    active: local
+
+logging:
+  level:
+    io.github.learnjaxrpc.config: DEBUG
+
+---
+spring:
+  profiles: local
+
+---
+spring:
+  profiles: unittest
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.learnjaxrpc.LearnJaxRpcServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.75 s - in io.github.learnjaxrpc.LearnJaxRpcServerApplicationTests
