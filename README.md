@@ -1,14 +1,7 @@
-Learn RPC-Based SOAP Web Services (JAX-RPC)
+RPC-Based SOAP Web Services (JAX-RPC)
 ===========================================
 
-This project contains example code to demonstrate proficiency with RPC based, aka JAX-RPC, SOAP web services.
-
-Obviously, building JAX-RPC web services today is definitely not something you want to do. However, it isn't
-unusual for a large company to buy some vendor package that has been around for a while and has never been
-updated to REST services. So you as a developer get stuck having to integrate with it by using its RPC web services.
-
-But never fear. Axis 1.4 is still quite adept at handling the task even though the Spring Framework has dropped
-support for RPC.
+This project contains example code to demonstrate proficiency with RPC based, aka JAX-RPC, SOAP web services. We have used Spring Boot framework to build the application.
 
 This project contain three modules:
 * learn-webservices-jaxrpc-stubs
@@ -79,11 +72,7 @@ You should see the following output:
 > =====================
 
 
-The server output should also display the REQUEST and RESPONSE messages. Certainly not exciting, so there are more interesting test cases in the server module.
-
-Future Work
------------
-I want to add an example of an attachment.
+The server output should also display the REQUEST and RESPONSE messages. 
 
 Attribution
 -----------
@@ -92,3 +81,7 @@ The `learn-webservices-jaxrpc-server` project contains a patch to the following 
 http://svn.apache.org/viewvc/axis/axis1/java/tags/1.4/src/org/apache/axis/utils/bytecode/ParamNameExtractor.java?revision=1225645&view=markup
 
 This is done to work around a Java 11 compatibility issue.
+
+**Reference**
+https://github.com/mpuening/learn-webservices-jaxrpc
+
